@@ -1,0 +1,212 @@
+{
+    "1": {
+        "Product": "Dairy Milk(S)",
+        "Price": 20,
+        "Quantity": 10,
+        "Category": "Chocolate",
+        "Manufacturer": "Cadbury"
+    },
+    "2": {
+        "Product": "Dairy Milk(M)",
+        "Price": 40,
+        "Quantity": 100,
+        "Category": "Chocolate",
+        "Manufacturer": "Cadbury"
+    },
+    "3": {
+        "Product": "Dairy Milk(L)",
+        "Price": 100,
+        "Quantity": 50,
+        "Category": "Chocolate",
+        "Manufacturer": "Cadbury"
+    },
+    "4": {
+        "Product": "Bourbon(S)",
+        "Price": 10,
+        "Quantity": 200,
+        "Category": "Chocolate",
+        "Manufacturer": "Britannia"
+    },
+    "5": {
+        "Product": "Bourbon(M)",
+        "Price": 40,
+        "Quantity": 75,
+        "Category": "Chocolate",
+        "Manufacturer": "Britannia"
+    },
+    "6": {
+        "Product": "Bourbon(L)",
+        "Price": 80,
+        "Quantity": 50,
+        "Category": "Chocolate",
+        "Manufacturer": "Britannia"
+    },
+    "7": {
+        "Product": "Clinic Plus",
+        "Price": 1,
+        "Quantity": 500,
+        "Category": "Shampoo",
+        "Manufacturer": "Hindustan Unilever Limited"
+    },
+    "8": {
+        "Product": "Clinic Plus Bottle",
+        "Price": 150,
+        "Quantity": 50,
+        "Category": "Shampoo",
+        "Manufacturer": "Hindustan Unilever Limited"
+    },
+    "9": {
+        "Product": "Dettol Soap",
+        "Price": 20,
+        "Quantity": 100,
+        "Category": "soap",
+        "Manufacturer": "Reckitt"
+    },
+    "10": {
+        "Product": "Dettol Handwash",
+        "Price": 80,
+        "Quantity": 30,
+        "Category": "Handwash",
+        "Manufacturer": "Reckitt"
+    },
+    "11": {
+        "Product": "Dettolbottle",
+        "Price": 80,
+        "Quantity": 100,
+        "Category": "Medicine",
+        "Manufacturer": "Reckitt"
+    },
+    "12": {
+        "Product": "Paracetamol",
+        "Price": 40,
+        "Quantity": 10,
+        "Category": "Medicine",
+        "Manufacturer": "Sri Krishna Pharmaceuticals"
+    },
+    "13": {
+        "Product": "Potato",
+        "Price": 10,
+        "Quantity": 100,
+        "Category": "Vegetable",
+        "Manufacturer": "Bangalore K.R Market"
+    },
+    "14": {
+        "Product": "5 Star(S)",
+        "Price": 10,
+        "Quantity": 100,
+        "Category": "Chocolate",
+        "Manufacturer": "Cadbury"
+    },
+    "15": {
+        "Product": "5 Star(M)",
+        "Price": 20,
+        "Quantity": 100,
+        "Category": "Chocolate",
+        "Manufacturer": "Cadbury"
+    },
+    "16": {
+        "Product": "5 Star(L)",
+        "Price": 40,
+        "Quantity": 50,
+        "Category": "Chocolate",
+        "Manufacturer": "Cadbury"
+    },
+    "17": {
+        "Product": "Kitkat(S)",
+        "Price": 10,
+        "Quantity": 300,
+        "Category": "Chocolate",
+        "Manufacturer": "Nestle"
+    },
+    "18": {
+        "Product": "Kitkat(M)",
+        "Price": 40,
+        "Quantity": 400,
+        "Category": "Chocolate",
+        "Manufacturer": "Nestle"
+    },
+    "19": {
+        "Product": "Sneakers",
+        "Price": 10,
+        "Quantity": 500,
+        "Category": "Chocolate",
+        "Manufacturer": "Mars International India"
+    },
+    "20": {
+        "Product": "Centerfresh",
+        "Price": 1,
+        "Quantity": 1000,
+        "Category": "Toffee",
+        "Manufacturer": "Perfetti Van Melle"
+    },
+    "21": {
+        "Product": "Centerfruit",
+        "Price": 1,
+        "Quantity": 1000,
+        "Category": "Toffee",
+        "Manufacturer": "Perfetti Van Melle"
+    },
+    "22": {
+        "Product": "Milkybar White Chocolate",
+        "Price": 10,
+        "Quantity": 200,
+        "Category": "Chocolate",
+        "Manufacturer": "Nestle"
+    },
+    "23": {
+        "Product": "Pilot Pen",
+        "Price": 100,
+        "Quantity": 100,
+        "Category": "Stationary",
+        "Manufacturer": "Pilot Corporation"
+    },
+    "24": {
+        "Product": "Apsara Pencil",
+        "Price": 5,
+        "Quantity": 200,
+        "Category": "Stationary",
+        "Manufacturer": "Hindustan Pencils Pvt. Ltd"
+    },
+    "25": {
+        "Product": "Fair-copy",
+        "Price": 70,
+        "Quantity": 80,
+        "Category": "Stationary",
+        "Manufacturer": "Hindustan Pencils Pvt. Ltd"
+    },
+    "26": {
+        "Product": "Rough-copy",
+        "Price": 30,
+        "Quantity": 80,
+        "Category": "Stationary",
+        "Manufacturer": "Hindustan Pencils Pvt. Ltd"
+    },
+    "27": {
+        "Product": "Pencil-box",
+        "Price": 100,
+        "Quantity": 90,
+        "Category": "Stationary",
+        "Manufacturer": "Hindustan Pencils Pvt. Ltd"
+    },
+    "28": {
+        "Product": "Camlin Colours",
+        "Price": 120,
+        "Quantity": 40,
+        "Category": "Stationary",
+        "Manufacturer": "Camlin"
+    },
+    "29": {
+        "Product": "Fevicol(M)",
+        "Price": 20,
+        "Quantity": 100,
+        "Category": "Stationary",
+        "Manufacturer": "Pidilite Industries Limited"
+    },
+    "30": {
+        "Product": "Fevicol(L)",
+        "Price": 50,
+        "Quantity": 300,
+        "Category": "Stationary",
+        "Manufacturer": "Pidilite Industries Limited"
+    }
+}
