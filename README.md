@@ -4,14 +4,14 @@ Hello, I"m Santhosh P. I've successfully completed my first Assignment (Inventry
 
 Inventory Management System using python and No SQL Datasets (json).
 
-# Read and write funtion
+### Read and write funtion
 In this Inventory Management System User can Buy, view and Update the Store inventory and maintain the record .
 
 1.User Can Add/Update new items in the file(record.json)
 2.User Can sells item and maintain the sales record
 
 
-# Adding/Updating Items
+### Adding/Updating Items
 
 ### Add new Items in Inventory
 User have to input :
